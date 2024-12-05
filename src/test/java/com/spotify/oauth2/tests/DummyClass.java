@@ -4,7 +4,7 @@ public class DummyClass {
 
     public void DummyClass()
     {
-
+        System.out.println("Test");
     }
 }
 
